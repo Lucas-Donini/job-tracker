@@ -1,6 +1,6 @@
 # 🔎 Job Tracker
 
-Ferramenta de linha de comando em Python que **coleta vagas de emprego**, guarda o **histórico em SQLite** (o que é novo, o que continua aberto, o que saiu do ar) e **exporta relatórios para Excel/CSV**.
+Ferramenta de linha de comando em Python que coleta vagas de emprego, guarda o histórico em SQLite (o que é novo, o que continua aberto, o que saiu do ar) e exporta relatorios para Excel/CSV.
 
 ## O que ele faz
 
@@ -82,3 +82,9 @@ Vagas do `remotive` fornecidas por [Remotive](https://remotive.com) (a API pede 
 - Mais fontes (outros sites e APIs de vagas)
 - Agendamento diário (Agendador de Tarefas do Windows / cron)
 - Aviso por e-mail quando surgirem vagas novas com certa palavra-chave
+
+
+![Planilha exportada aberta no Google Sheets](docs/planilha.png)
+
+![Coleta e consultas funcionando no terminal](docs/terminal.png)
+
